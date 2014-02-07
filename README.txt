@@ -1,4 +1,4 @@
-- This code was written for testing purposes.
+- This code is written for testing purposes.
 
 -The project consists of two modules, go-euro-common which contains the model, and some utility classes,
 and go-euro having some service implementation, bussines logic and the Main class.
