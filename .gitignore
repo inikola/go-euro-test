@@ -216,3 +216,8 @@ pip-log.txt
 target
 .idea
 *.iml
+/target/maven-archiver
+/target/surefire
+/target/archive-tmp
+/target/classes
+/target/generated-sources
